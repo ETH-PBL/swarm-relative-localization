@@ -3,6 +3,8 @@ This repository provides supplementary materials to the paper "A Relative Infras
 
 Authors: Dominik Schindler, Vlad Niculescu, Tommaso Polonelli, Daniele Palossi, Luca Benini, and Michele Magno
 
+Video: https://youtu.be/cK7vibFDEI8
+
 The repository contains the following files:
 
  - supplement.pdf: complements the demonstrations of the algorithms presented in the paper
